@@ -1,0 +1,1 @@
+# shake_detector_app
